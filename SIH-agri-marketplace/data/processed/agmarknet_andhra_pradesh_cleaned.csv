@@ -1,0 +1,46 @@
+commodity_group,commodity,msp_rs_per_quintal,date,modal_price,arrival_tonnes
+Cereals,Bajra(Pearl Millet/Cumbu),2900.0,2026-09-05,2750.0,0.1
+Cereals,Bajra(Pearl Millet/Cumbu),2900.0,2026-09-06,2750.0,0.1
+Cereals,Bajra(Pearl Millet/Cumbu),2900.0,2026-09-07,2750.0,0.1
+Pulses,Bengal Gram(Gram)(Whole),5875.0,2026-09-05,5975.0,0.6
+Pulses,Bengal Gram(Gram)(Whole),5875.0,2026-09-06,5950.0,0.2
+Pulses,Bengal Gram(Gram)(Whole),5875.0,2026-09-07,5975.0,0.6
+Pulses,Black Gram(Urd Beans)(Whole),8200.0,2026-09-05,8452.94,1.28
+Pulses,Black Gram(Urd Beans)(Whole),8200.0,2026-09-06,7700.0,0.08
+Pulses,Black Gram(Urd Beans)(Whole),8200.0,2026-09-07,8486.27,1.28
+Fibre Crops,Cotton,8267.0,2026-09-05,8077.78,2.7
+Fibre Crops,Cotton,8267.0,2026-09-06,7825.0,0.4
+Fibre Crops,Cotton,8267.0,2026-09-07,8048.08,2.6
+Pulses,Green Gram(Moong)(Whole),8780.0,2026-09-05,7000.0,0.2
+Pulses,Green Gram(Moong)(Whole),8780.0,2026-09-06,,
+Pulses,Green Gram(Moong)(Whole),8780.0,2026-09-07,7000.0,0.2
+Oil Seeds,Groundnut,7517.0,2026-09-05,7176.67,155.04
+Oil Seeds,Groundnut,7517.0,2026-09-06,7067.92,0.24
+Oil Seeds,Groundnut,7517.0,2026-09-07,6798.8,1178.54
+Cereals,Jowar(Sorghum),4023.0,2026-09-05,3232.0,0.4
+Cereals,Jowar(Sorghum),4023.0,2026-09-06,3442.0,0.3
+Cereals,Jowar(Sorghum),4023.0,2026-09-07,3350.4,0.5
+Cereals,Maize,2410.0,2026-09-05,2640.57,22.8
+Cereals,Maize,2410.0,2026-09-06,3150.36,2.8
+Cereals,Maize,2410.0,2026-09-07,2804.75,18.75
+Vegetables,Onion,,2026-09-05,4372.5,105.0
+Vegetables,Onion,,2026-09-06,2800.0,0.1
+Vegetables,Onion,,2026-09-07,4737.48,127.5
+Cereals,Paddy(Common),2441.0,2026-09-05,2372.59,360.25
+Cereals,Paddy(Common),2441.0,2026-09-06,2372.51,24.95
+Cereals,Paddy(Common),2441.0,2026-09-07,2375.94,178.35
+Vegetables,Potato,,2026-09-05,1500.0,1.9
+Vegetables,Potato,,2026-09-06,,
+Vegetables,Potato,,2026-09-07,1400.0,4.5
+Cereals,Ragi(Finger Millet),5205.0,2026-09-05,4900.0,0.1
+Cereals,Ragi(Finger Millet),5205.0,2026-09-06,,
+Cereals,Ragi(Finger Millet),5205.0,2026-09-07,4900.0,0.1
+Pulses,Red gram/Arhar/Tur(whole),8450.0,2026-09-05,8264.0,0.3
+Pulses,Red gram/Arhar/Tur(whole),8450.0,2026-09-06,8100.0,0.1
+Pulses,Red gram/Arhar/Tur(whole),8450.0,2026-09-07,8300.0,0.2
+Oil Seeds,"Sesamum(Sesame,Gingelly,Til)",10346.0,2026-09-05,9000.0,0.1
+Oil Seeds,"Sesamum(Sesame,Gingelly,Til)",10346.0,2026-09-06,,
+Oil Seeds,"Sesamum(Sesame,Gingelly,Til)",10346.0,2026-09-07,9950.0,0.1
+Vegetables,Tomato,,2026-09-05,1532.44,1447.86
+Vegetables,Tomato,,2026-09-06,1517.58,1355.5
+Vegetables,Tomato,,2026-09-07,1708.76,1667.85
